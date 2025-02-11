@@ -7,4 +7,4 @@ Vous trouverez sur ce dépôt Git tous les éléments necéssaires pour mettre e
 - Procédure installation portail captif : Ce fichier contient la procédure permettant la mise en place de toute l'infrastructure du portail.
 
 
-Ce projet a été réalisé en grande partie par Sylvain BROIS, apprenti infrastructures et réseau au SSIC de Loire-Atlantique. 
+Ce projet a été réalisé en grande partie par Sylvain BROIS, apprenti infrastructures et systèmes au SSIC de Loire-Atlantique. 
